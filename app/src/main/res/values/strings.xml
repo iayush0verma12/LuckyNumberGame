@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lucky Number Game</string>
+    <string name="welcome_to_lucky_number">Welcome to Lucky Number</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="get_lucky_number">Get Lucky Number</string>
+    <string name="your_luck_number_is">Your Luck Number is :</string>
+    <string name="share">share</string>
+</resources>
